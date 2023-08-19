@@ -1,0 +1,19 @@
+Desafio
+
+- Criar um código HTML que use apenas parágrafos e quebra de linha e que gere o seguinte resultado visual:
+
+ _______________________________________
+|                                       |
+|Desafio das Mensagens                  |
+|                                       |
+|* Um                                   |
+|** Dois                                |
+|*** Três                               |
+|**** Quatro                            |
+|                                       |
+|**** Quatro                            |
+|***Três                                |
+|** Dois                                |
+|* Um                                   |
+|                                       |
+|_______________________________________|
